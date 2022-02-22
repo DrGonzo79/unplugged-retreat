@@ -233,6 +233,10 @@ footer .social-icons p {
   justify-content: center;
   align-items: center;
 }
+.social-icons i {
+  font-size: 3em;
+  margin: 40px;
+}
 
 footer .copyright {
   margin: 20px 0;
